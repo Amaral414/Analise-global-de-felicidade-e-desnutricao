@@ -1,34 +1,33 @@
-# 🌍 Global Happiness vs Undernourishment Analysis
+# 🌍 Taxa Felicidade Global vs Taxa de Desnutrição 
 
-## 📌 Objective
-Analyze the relationship between countries' happiness levels and undernourishment rates over time.
+## 📌 Objetivo
+Analisar se existe alguma relação entre a taxa de desnutrição e a taxa de felicidade de países ao longo do tempo.
 
 ## 📊 Dataset
 - World Happiness Report (2005–2025)
 - Undernourishment dataset (2000–2024)
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
 
-## 📈 Key Insights
-- Negative correlation between undernourishment and happiness
-- Countries with lower food insecurity tend to have higher happiness levels
-- Exceptions suggest influence of economic and social factors
+## 📈 Conclusões
+- Existe uma relação negativa entre a taxa de desnutrição e a taxa de felicidade
+- Países com menor taxa de desnutrição tendem a serem mais felizes, porém...
+- Exceções sugerem que além da desnutrição, outras vriáveis políticas, econômicas e sociais influenciam a taxa de feliidade.
 
 ## 📁 Project Structure
-- `notebook.ipynb` → full analysis
-- `data/` → datasets used
+- `notebook.ipynb` → Análise completa
+- `data/` → datasets usados
 
-## 🚀 How to Run
+## 🚀 Como rodar
 ```bash
 pip install -r requirements.txt
 jupyter notebook
 
 
-
-📬 Author
+📬 Autor
 
 Gabriel Amaral
