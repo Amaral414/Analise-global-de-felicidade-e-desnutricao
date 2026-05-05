@@ -26,7 +26,7 @@ Analisar se existe alguma relação entre a taxa de desnutrição e a taxa de fe
 ```bash
 pip install -r requirements.txt
 jupyter notebook
-
+```
 
 📬 Autor
 
