@@ -1,9 +1,13 @@
 # 🌍 Taxa Felicidade Global vs Taxa de Desnutrição 
 
 ### 📌 Objetivo
-O objetivo desse projeto é iniciar uma nova etapa na minha carreira como estudante e profissional da área de TI. Durante boa parte da minha formação, minhas espectativas e meu foco era se tornar um desenvolvedor backend ou frontend, ou melhor, um profissional da parte de infraestrutura de TI, administrando redes, manutenindo servidores, monitorando acessos, etc. Porém quando pesquisei sobre a área de atuação em **Ciencia de dados** e **Análise de Dados**, eu tive um deslumbre quanto a área que se punha à minha frente, aquilo me tirou de uma sala escura de telas com linhas coloridas e me puxou para fora, pro mundo real, para dados reais. Hoje em dia, na era da informação em que vivemos, perder alguma notícia como qual país está em crise, qual ativo é mais valioso ou quais países estão em guerra é quase que impossível. Essa parte de ver o mundo real como ele é e utilizar seus dados para tomar decisões que mudam o rumo das nossas vidas é incrível. Então esse primeiro projeto de análise de dados que estou fazendo é um pequeno passo para mim, mas um enorme passo para a minha carreira
+O objetivo desse projeto é iniciar uma nova etapa na minha carreira como estudante e profissional da área de TI. Durante boa parte da minha formação, minhas espectativas e meu foco era se tornar um desenvolvedor backend ou frontend, ou melhor, um profissional da parte de infraestrutura de TI, administrando redes, manutenindo servidores, monitorando acessos, etc. 
 
- - O objetivo final é fazer uma comparação entre os países que possuem maior taxa de desnutrição com os países que possuem maior taxa de felicidade, e tentar entender, até aonde a desnutrição afeta o bem-estar de um pais. Se afeta muito, pouco ou se é indiferente. Posteriormente será publicado uma atualização desse projeto mostrando quais outros fatores também afetam a taxa de felicidade de um país.
+Porém quando pesquisei sobre a área de atuação em **Ciencia de dados** e **Análise de Dados**, eu tive um deslumbre quanto a área que se punha à minha frente, aquilo me tirou de uma sala escura de telas com linhas coloridas e me puxou para fora, pro mundo real, para dados reais. 
+
+Hoje em dia, na era da informação em que vivemos, perder alguma notícia como qual país está em crise, qual ativo é mais valioso ou quais países estão em guerra é quase que impossível. Essa parte de ver o mundo real como ele é e utilizar seus dados para tomar decisões que mudam o rumo das nossas vidas é incrível. Então esse primeiro projeto de análise de dados que estou fazendo é um pequeno passo para mim, mas um enorme passo para a minha carreira
+
+ - O objetivo é fazer uma comparação entre os países que possuem maior taxa de desnutrição com os países que possuem maior taxa de felicidade, e tentar entender, até aonde a desnutrição afeta o bem-estar de um pais. Se afeta muito, pouco ou se é indiferente. Posteriormente será publicado uma atualização desse projeto mostrando quais outros fatores também afetam a taxa de felicidade de um país.
 
 #  Ferramentas
 ### 📊 Dataset
