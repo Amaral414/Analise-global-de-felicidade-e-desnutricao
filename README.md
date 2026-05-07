@@ -25,7 +25,7 @@ Hoje em dia, na era da informação em que vivemos, perder alguma notícia como 
 - Alguns países com taxa de desnutrição alta também apresentam taxa de felicidade alta, e o contrário também ocorre, países com baixa taxa de desnutrição apresentam taxa de felicidade lá em baixo. Isso indica que existem diversos fatores políticos, econômicos, geográficos e até mesmo culturais que interferem na taxa de felicidade do país.
 - Mais adiante será publicado uma atualização nesse projeto, trazendo outros fatores que podem afetar a taxa de felicidade dos países.
 
-## 📁 Project Structure
+## 📁 Estrutura do projeto
 - `notebook.ipynb` → Análise completa
 - `data/` → datasets usados
 
